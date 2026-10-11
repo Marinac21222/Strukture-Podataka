@@ -1,1 +1,4 @@
-# Strukture-Podataka
+Strukture-Podataka
+Roko Matijas
+===
+
