@@ -1,0 +1,22 @@
+/*
+5. Napisati program koji iz datoteke čita postfiks izraz i zatim korištenjem stoga računa
+rezultat. Stog je potrebno realizirati preko vezane liste.
+*/
+/*
+4 3 + 2 * u dat (4+3)
+typedef struct stack* position;
+typedef struct Stack{
+int broj
+position next
+}stack
+stack head {.broj = 0, .next = NULL}
+otvorit dat, spremit podatke, zatvorit dat
+Push(...){
+alokacija, unosimo podatke,insertBegin(head,newP)
+}
+operacija
+Pop()
+{
+izracunati novi el, osloboditi p i g, push(head,7)}
+krivi unos{oslobodit memoriju, javit gresku}
+*/
